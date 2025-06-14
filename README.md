@@ -2,7 +2,7 @@
 
 # 🎙️ AI Interview Simulator
 
-An AI-powered Android application that generates realistic interview scenarios based on user preferences and provides smart feedback using GPT API.
+An AI-powered Android app that generates interview scenarios based on user preferences and provides intelligent feedback using the GPT API.
 
 ---
 
