@@ -29,8 +29,6 @@ An AI-powered Android app that generates interview scenarios based on user prefe
 
 🕘 View history of past interviews with detailed reports
 
-🧩 Simple, elegant UI built with Jetpack Compose
-
 ---
 
 ## ⚙️ Tech Stack
